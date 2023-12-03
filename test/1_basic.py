@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from yaal import Value
+from minl import Value
 
 a = Value(1)
 b = Value(2)

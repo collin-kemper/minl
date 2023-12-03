@@ -1,1 +1,3 @@
-# Yet Another Autograd Library
+# Minimal Neural-net Library
+
+Intended as a pedagogical exercise.
